@@ -12,6 +12,6 @@
         }
     ],
     "require": {
-        "wxp/upload": "dev-master"
+
     }
 }
