@@ -11,5 +11,7 @@
             "email": "1520004071@qq.com"
         }
     ],
-    "require": {}
+    "require": {
+        "wxp/upload": "dev-master"
+    }
 }
