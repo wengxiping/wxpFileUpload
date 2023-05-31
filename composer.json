@@ -1,0 +1,15 @@
+{
+    "name": "wxp/upload",
+    "autoload": {
+        "psr-4": {
+            "Wxp\\Upload\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "wengxiping",
+            "email": "1520004071@qq.com"
+        }
+    ],
+    "require": {}
+}
